@@ -1,0 +1,27 @@
+{
+  "name": "qaatlas-dist",
+  "version": "1.0.0",
+  "description": "Distribution package for QAAtlas - AI-powered test plan generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricecarrier7/qaatlas-dist.git"
+  },
+  "homepage": "https://github.com/mauricecarrier7/qaatlas",
+  "bugs": {
+    "url": "https://github.com/mauricecarrier7/qaatlas/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "qaatlas",
+    "testing",
+    "qa",
+    "test-plan",
+    "ai"
+  ],
+  "scripts": {
+    "postinstall": "echo 'QAAtlas installed! Run: npx qaatlas --help'"
+  },
+  "dependencies": {
+    "qaatlas": "^1.0.0"
+  }
+}
