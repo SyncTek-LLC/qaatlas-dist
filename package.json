@@ -4,11 +4,11 @@
   "description": "AI-powered test plan generator that analyzes code diffs and produces test plans, risk assessments, and coverage maps",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauricecarrier7/qaatlas-dist.git"
+    "url": "git+https://github.com/SyncTek-LLC/qaatlas-dist.git"
   },
-  "homepage": "https://github.com/mauricecarrier7/qaatlas-dist",
+  "homepage": "https://github.com/SyncTek-LLC/qaatlas-dist",
   "bugs": {
-    "url": "https://github.com/mauricecarrier7/qaatlas-dist/issues"
+    "url": "https://github.com/SyncTek-LLC/qaatlas-dist/issues"
   },
   "license": "MIT",
   "keywords": ["qaatlas", "testing", "qa", "test-plan", "ai", "code-analysis"]
